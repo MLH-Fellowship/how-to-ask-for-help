@@ -6,7 +6,7 @@ It's hard to provide support if all we know about your problem is "My printer do
 - What has happened (wrongly) instead? (I get `ENOENT`)
 - What environment are you using? (I am on Mac Catalina with Node v12)
 - What did you try to find the cause? (I already tried deleting the `node_modules` folder and reinstalling.)
-- Are there error message or log files? (The error message is `ENOENT`)
+- Are there error message or log files? (Here is a copy of my logs from when I run `npm install`)
 - Has it ever worked? What did you change? (I just pulled the latest changes. It worked before that.)
 
 If all this information is included then you will have a high chance of getting a useful reply.
