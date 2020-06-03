@@ -1,23 +1,23 @@
-## Don't ask to ask
-
-It's a bad manner if someone enters a channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction it does not work that way on IRC. You are supposed to just ask your question right away.
-
 ## Be precise
 
-There is nothing worse than "My printer doesn't work." or "My mail server doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
+It's hard to provide support if all we know about your problem is "My printer doesn't work." or "My mail server doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
 
-- What did you try to accomplish? (I wanted to fetch my mails via POP3.)
-- What has happened (wrongly) instead? (But my inbox remains empty.)
-- What environment are you using? (I am using kmail 1.8 in KDE 3.4.)
-- What did you try to find the cause? (I already checked my POP3 account setup.)
-- Are there error message or log files? (The error message reads: "SSL negotiation failed.")
-- Has it ever worked? What did you change? (I switched accounts to a new provider. It worked before with another provider.)
+- What did you try to accomplish? (I'm trying to run `npm install`)
+- What has happened (wrongly) instead? (I get `ENOENT`)
+- What environment are you using? (I am on Mac Catalina with Node v12)
+- What did you try to find the cause? (I already tried deleting the `node_modules` folder and reinstalling.)
+- Are there error message or log files? (The error message is `ENOENT`)
+- Has it ever worked? What did you change? (I just pulled the latest changes. It worked before that.)
 
 If all this information is included then you will have a high chance of getting a useful reply.
 
 ## Tell what you are doing
 
-Others only know what you tell them. If you change things silently then nobody will know about it. The worst thing you can do is say: "I changed something. Now I have another problem." This will get you ignored in no time. If you expect help you need to work with the supporters.
+Others only know what you tell them. If you change things silently then nobody will know about it. Don't say "I changed something. Now I have another problem," use the guide above to communicate your new problem.
+
+## Don't ask to ask
+
+It's a bad manner if someone enters a support channel and asks "May I ask a question?" or "Can anyone help me?". Although that may be polite in normal human interaction, if you're already in a support channel we know you need help! You can ask your question right away.
 
 ## Unintended rudeness
 
