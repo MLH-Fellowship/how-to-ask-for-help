@@ -37,7 +37,9 @@ It doesn't help anyone if you just say "Nevermind, found it." and quit the chann
 
 ## Do not flood the channel - use a pastebin
 
-Sometimes you need to show others more than one line. Perhaps parts of your configuration files or a log file. Never just copy and paste larger amounts of text right into the channel. Always use a pastebin. Pastebins are public services (web sites) where you can paste your text and everybody can access them as a URL. Just paste your contents there and send the URL into the channel. That should allow everybody who's interested to take a look. Just don't paste it without any comment. Rather say: "Emails seem to get lost since I installed program foobar. Please take a look at my logs: http://..." See the [list of pastebin services](http://en.wikipedia.org/wiki/Pastebin) on the internet.
+Sometimes you need to show others more than one line. Perhaps parts of your configuration files or a log file. Never just copy and paste larger amounts of text right into the channel. Always use a pastebin. 
+
+Pastebins are public services (web sites) where you can paste your text and everybody can access them as a URL. Just paste your contents there and send the URL into the channel. That should allow everybody who's interested to take a look. Just don't paste it without any comment. Rather say: "Emails seem to get lost since I installed program foobar. Please take a look at my logs: http://..." See the [list of pastebin services](http://en.wikipedia.org/wiki/Pastebin) on the internet.
 
 ## Stay if you can
 
