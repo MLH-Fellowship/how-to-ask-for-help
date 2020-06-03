@@ -1,6 +1,10 @@
-## Be precise
+# How to ask for help
 
-It's hard to provide support if all we know about your problem is "My printer doesn't work." or "My mail server doesn't work.". How are others supposed to help you when you don't give them any information? Make sure you include at least this information:
+It's hard to provide support if all we know about your problem is "My printer doesn't work." or "My mail server doesn't work." This document has some easy tips that will help your helper help you! 
+
+It's based off a dated document called [IRC Etiquette](https://github.com/fizerkhan/irc-etiquette), regarding support channels in IRC. I also highly reccomend checking out [how to ask smart questions](http://www.catb.org/~esr/faqs/smart-questions.html).
+
+## Be precise
 
 - What did you try to accomplish? (I'm trying to run `npm install`)
 - What has happened (wrongly) instead? (I get `ENOENT`)
@@ -44,8 +48,3 @@ Pastebins are public services (web sites) where you can paste your text and ever
 ## Stay if you can
 
 If you can, please consider staying online in the channel. The more knowledge you gain the more you can help other people. And you probably get to know people you like to hang out with - even if it's just virtually.
-
-Related links
--------------
-
-- http://www.catb.org/~esr/faqs/smart-questions.html
