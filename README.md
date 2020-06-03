@@ -27,7 +27,7 @@ Sometimes you may feel that others are rude. You may get a response like "Reinst
 
 Asking the same question every minute is annoying. If anyone in the channel isn't paying attention then they will neither read you the second and third time. And those who came back from lunch or sleep will likely see in their "lastlog" what has happened lately. This is too demanding..
 
-## Don't be lazy - read the documentation
+## Read the documentation
 
 If people tell you to read the documentation then you should do so. Never say: "I'm too lazy. Come on. You all know what I need to do. Just tell me what I need to do." This will get you ignored for all eternity. However you can expect to be told where to find the documentation. But if you get an URL then get it and read it. If the documentation is too technical or you don't understand certain sections then say: "I have now read chapter 3.1 of the URL you gave me and I understand how virtual domains work in general. But how would I use both virtual and non-virtual domains together?"
 
