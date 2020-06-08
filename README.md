@@ -4,14 +4,14 @@ Congratulations! Getting support means you're about to learn something new, and 
 
 # Who do I ask for help?
 
-1. Ask your Rubber Duck
-1. Ask Google
-1. DM a BFF on your team in a direct message (ex @username)
-2. Ask for help in your your project channel (ex #babel)
-5. Ask in the project discord (ex: babel/help)
-3. Ask a mentor (ex @username)
-4. Ask in general chat (ex: #javascript)
-5. File an issue on the project repository
+1. 🦆 Ask your Rubber Duck 
+1. 🔍 Ask Google
+1. ✉️ DM a BFF on your team in a direct message (ex @username)
+2. 📦 Ask for help in your your project channel (ex #babel)
+5. 🏗️ Ask in the project discord (ex: babel/help)
+3. 🧍  Ask a mentor (ex @username)
+4. 🗺️ Ask in general chat (ex: #javascript)
+5. 🙋 File an issue on the project repository
 
 # Rubber Duck Debugging
 
@@ -19,9 +19,9 @@ A popular method for developers is known as ‘rubber duck debugging’. This is
 
 > Many programmers have had the experience of explaining a problem to someone else, possibly even to someone who knows nothing about programming, and then hitting upon the solution in the process of explaining the problem. In describing what the code is supposed to do and observing what it actually does, any incongruity between these two becomes apparent.[2] More generally, teaching a subject forces its evaluation from different perspectives and can provide a deeper understanding.[3] By using an inanimate object, the programmer can try to accomplish this without having to interrupt anyone else.
 
-![See Wikipedia article](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+[See Wikipedia article](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
-The great thing about Rubber Duck Debugging is that your 
+The great thing about Rubber Duck Debugging is that even if you don't solve your issue, you'll have summarized and phrased the question for your next steps.
 
 # Tips for Googling
 
