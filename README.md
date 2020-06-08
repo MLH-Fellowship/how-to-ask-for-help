@@ -7,12 +7,12 @@ Congratulations! Getting support means you're about to learn something new, and 
 1. 🦆 [Ask your Rubber Duck](https://github.com/MLH-Fellowship/how-to-get-help/blob/master/README.md#rubber-duck-debugging) 
 1. 🔍 [Ask Google](https://github.com/MLH-Fellowship/how-to-get-help/blob/master/README.md#tips-for-googling)
 1. 👪 [Ask a human](https://github.com/MLH-Fellowship/how-to-get-help/blob/master/README.md#asking-others-for-help)
-    2. 📦 Ask for help in your your MLH project channel (ex #babel)
-    4. 🗺️ Ask in MLH general chat (ex: #javascript)
-    5. 🏗️ Ask in the project discord (ex: babel/help)
+    1. 📦 Ask for help in your your MLH project channel (ex #babel)
+    1. 🗺️ Ask in MLH general chat (ex: #javascript)
+    1. 🏗️ Ask in the project discord (ex: babel/help)
     1. ✉️ DM a BFF on your team in a direct message (ex @username)
-    3. 🧍  Ask a mentor (ex @username)
-    5. 🙋 File an issue on the project repository
+    1. 🧍  Ask a mentor (ex @username)
+    1. 🙋 File an issue on the project repository
 
 # Rubber Duck Debugging
 
