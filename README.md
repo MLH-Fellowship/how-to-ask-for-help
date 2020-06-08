@@ -26,10 +26,10 @@ The great thing about Rubber Duck Debugging is that even if you don't solve your
 
 # Tips for Googling
 
-- Keywords - First off, if you’re debugging an error message, pull out any individual information, such as file paths. This allows you to search a wider range of results.
-- Source - Where is your error coming from? Is it a library? If so, look up the library’s GitHub page (if it has one), and check out the issues page. It’s likely someone has come to this error already and has had a response with a solution. If it hasn’t already been raised and the solution isn’t clear, raise an issue yourself, giving the developers as much information as possible. Also try and get a second opinion on your error, check on another codebase or computer, just in case it’s an issue with your set up.
-- StackOverflow - Ah, the trusty StackOverflow, what would we do without it? I often find searching directly into StackOverflow brings up results otherwise hidden by Google.
-- Describe the issue - If the problem is due to certain circumstances, try and pick out the keywords from this setup in your search term, as in step 1.
+- **Keywords** - First off, if you’re debugging an error message, pull out any individual information, such as file paths. This allows you to search a wider range of results.
+- **Source** - Where is your error coming from? Is it a library? If so, look up the library’s GitHub page (if it has one), and check out the issues page. It’s likely someone has come to this error already and has had a response with a solution. If it hasn’t already been raised and the solution isn’t clear, raise an issue yourself, giving the developers as much information as possible. Also try and get a second opinion on your error, check on another codebase or computer, just in case it’s an issue with your set up.
+- **StackOverflow** - Ah, the trusty StackOverflow, what would we do without it? I often find searching directly into StackOverflow brings up results otherwise hidden by Google.
+- **Describe the issue** - If the problem is due to certain circumstances, try and pick out the keywords from this setup in your search term, as in step 1.
 
 # Asking others for help
 
