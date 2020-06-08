@@ -4,7 +4,7 @@ Congratulations! Getting support means you're about to learn something new, and 
 
 # Who do I ask for help?
 
-1. 🦆 Ask your Rubber Duck 
+1. 🦆 [Ask your Rubber Duck](https://github.com/MLH-Fellowship/how-to-get-help/blob/master/README.md#rubber-duck-debugging) 
 1. 🔍 Ask Google
 1. ✉️ DM a BFF on your team in a direct message (ex @username)
 2. 📦 Ask for help in your your project channel (ex #babel)
