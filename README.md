@@ -1,4 +1,11 @@
-# How to ask for help
+# Who do I ask for help?
+
+1. Ask a BFF on your team in a direct message (ex @username)
+2. Ask for help in your your project channel (ex #babel)
+3. Ask a mentor (ex @username)
+4. Ask in general chat (ex: #javascript)
+
+# What do I say?
 
 It's hard to provide support if all we know about your problem is "My printer doesn't work." or "My mail server doesn't work." This document has some easy tips that will help your helper help you! 
 
